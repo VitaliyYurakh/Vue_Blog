@@ -1,4 +1,4 @@
-# vue_ui_test
+# vue_blog
 
 ## Project setup
 ```
